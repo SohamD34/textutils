@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# TextUtils
+
+A dummy webapp created as a part of React learning journey - implementing a few basic text modification utitlites.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
